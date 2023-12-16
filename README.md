@@ -4,6 +4,7 @@ A preset collection of styles to be used with SDXL Prompt Styler. They are nothi
 These require:
 
 ComfyUI - https://github.com/comfyanonymous/ComfyUI
+
 SDXL Prompt Styler - https://github.com/twri/sdxl_prompt_styler
 
 Place the file in: \ComfyUI\custom_nodes\sdxl_prompt_styler
