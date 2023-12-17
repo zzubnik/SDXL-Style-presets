@@ -15,7 +15,7 @@ Stalenhag-esque
 ![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_Stalenhagesque.png)
 
 
-DOFStudioPhotography
+DOF Studio Photography
 ![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_DOFStudioPhotography.png)
 
 
@@ -23,5 +23,13 @@ GTA
 ![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_GTA.png)
 
 
-zz_Zombie
+Zombie
 ![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_Zombie_.png)
+
+
+B&W Tattoo
+![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_B%26W_Tattoo_.png)
+
+
+Japanese LIne Art
+![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_JapaneseLineArt_.png)
