@@ -70,6 +70,11 @@
         "negative_prompt": ""
     },
     {
+        "name": "zz-Hieronymus Bosch",
+        "prompt": "({prompt}:1.2), By Hieronymus Bosch. Extreme detail.",
+        "negative_prompt": ""
+    },
+    {
         "name": "zz-Fix bad anatomy",
         "prompt": "",
         "negative_prompt": "({prompt}:1.2) bad anatomy, extra legs, extra arms, poorly drawn hands, poorly drawn feet, disfigured, out of frame, tiling, bad art, deformed, mutated, outside, outdoors, closed eyes"
