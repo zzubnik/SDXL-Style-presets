@@ -45,23 +45,13 @@
         "negative_prompt": ""
     },
     {
-        "name": "zz-Painted glass",
-        "prompt": "({prompt}:1.2) painted by artgerm, Alphonse Mucha, Akihiko Yoshida, sakimichan, krenz cushart, low angle shot, digital painting.",
-        "negative_prompt": ""
-    },
-    {
         "name": "zz-Stalenhag-esque",
         "prompt": "({prompt}:1.2) intricate, dramatic, highly detailed, digital painting, artstation,  smooth, DOF. Bokeh. by steven stalenhag. black vignette.",
         "negative_prompt": ""
     },
     {
-        "name": "zz-Romance novel cover art",
-        "prompt": "({prompt}:1.2) intricate, highly detailed, smooth, art by artgerm and greg rutkowski and gil elvgren. very detailed hands. very detailed face",
-        "negative_prompt": ""
-    },
-    {
         "name": "zz-Really old camera",
-        "prompt": "({prompt}:1.2) Tri-X 400 TX, Instax, Ilford HP5, Pinhole Photography, Ambrotype, Tintype, Monochrome, Damaged photograph. 19th century style. Camera obscura",
+        "prompt": "({prompt}:1.2) Tri-X 400 TX, Instax, Ilford HP5, faded Pinhole Photography, Ambrotype, Tintype, Monochrome, Damaged photograph. 19th century style. Camera obscura, (film grain:1.4),(film scratches:1.4).",
         "negative_prompt": ""
     },
     {
@@ -75,18 +65,13 @@
         "negative_prompt": ""
     },
     {
-        "name": "zz-Fooocus clone",
-        "prompt": "({prompt}:1.2), dynamic composition, elegant, intricate, highly detailed, sharp focus, beautiful light, cinematic, new classic, stunning, attractive, creative, color spread, cute, lovely, pretty, charming, enchanted, cool, enhanced, inspired, vibrant, illuminated, colorful, loving, positive, glowing, pristine, bright, relaxed, joyful, unique",
-        "negative_prompt": ""
-    },
-    {
         "name": "zz-The Drolatic Dreams of Pantagruel",
         "prompt": "The Drolatic Dreams of Pantagruel. ({prompt}:1.2)",
         "negative_prompt": ""
     },
     {
         "name": "zz-Fix bad anatomy",
-        "prompt": "({prompt}:1.2) bad anatomy, extra legs, extra arms, poorly drawn hands, poorly drawn feet, disfigured, out of frame, tiling, bad art, deformed, mutated, outside, outdoors, closed eyes",
-        "negative_prompt": ""
+        "prompt": "",
+        "negative_prompt": "({prompt}:1.2) bad anatomy, extra legs, extra arms, poorly drawn hands, poorly drawn feet, disfigured, out of frame, tiling, bad art, deformed, mutated, outside, outdoors, closed eyes"
     }
 ]
