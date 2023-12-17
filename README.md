@@ -11,10 +11,6 @@ Place the file https://github.com/zzubnik/SDXL-Style-presets/blob/main/sdxl_styl
 
 Style Previews
 
-Stalenhag-esque - My favourite digital artist. Buy his books, they are amazing.
-![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_Stalenhagesque.png)
-
-
 DOF Studio Photography
 ![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_DOFStudioPhotography.png)
 
@@ -57,6 +53,10 @@ Really Old Camera
 
 Mixed Media
 ![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_MixedMedia_.png)
+
+
+Stalenhag-esque - My favourite digital artist. Buy his books, they are amazing.
+![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_Stalenhagesque.png)
 
 
 Hobbit House - Colourful digital painting
