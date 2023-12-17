@@ -59,12 +59,12 @@ Mixed Media
 ![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_MixedMedia_.png)
 
 
-Hieronymus Bosch - the master of weird old paintings
-![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/HieronymusBosch.png)
-
-
 Hobbit House - Colourful digital painting
 ![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_HobbitHouse.png)
+
+
+Hieronymus Bosch - the master of weird old paintings
+![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/HieronymusBosch.png)
 
 
 The Drolatic Dreams of Pantagruel - use witn an empty prompt for nightmare fuel. Try using with FreeU_V2
