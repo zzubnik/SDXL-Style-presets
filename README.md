@@ -39,10 +39,6 @@ Acid Illustration
 ![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_Acid_Illustration_.png)
 
 
-Mixed Media
-![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_MixedMedia_.png)
-
-
 Cine Film
 ![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_Cinefilm_.png)
 
@@ -51,20 +47,24 @@ Horror - dark and spooky
 ![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_Horror_.png)
 
 
-Hieronymus Bosch - the master of weird old paintings
-![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/HieronymusBosch.png)
-
-
-Hobbit House - Colourful digital painting
-![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_HobbitHouse.png)
-
-
 Princess Peach - Dreamy colourful images
 ![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_PrincessPeach_.png)
 
 
 Really Old Camera
 ![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_ReallyOldCamera_.png)
+
+
+Mixed Media
+![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_MixedMedia_.png)
+
+
+Hieronymus Bosch - the master of weird old paintings
+![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/HieronymusBosch.png)
+
+
+Hobbit House - Colourful digital painting
+![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_HobbitHouse.png)
 
 
 The Drolatic Dreams of Pantagruel - use witn an empty prompt for nightmare fuel. Try using with FreeU_V2
