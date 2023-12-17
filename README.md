@@ -39,5 +39,15 @@ Acid Illustration
 ![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_Acid_Illustration_.png)
 
 
+Mixed Media
+![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_MixedMedia_.png)
+
+
+Cine Film
+![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_Cinefilm_.png)
+
+
+Horror
+![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_Horror_.png)
 
 
