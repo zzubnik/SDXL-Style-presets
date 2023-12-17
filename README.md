@@ -1,5 +1,5 @@
 # SDXL-Style-presets
-A preset collection of styles to be used with SDXL Prompt Styler. They are nothing special. Just key words that influence the generated images which I enjoy using.
+A preset collection of styles to be used with SDXL Prompt Styler. They are nothing special. Just key words that influence the generated images which I enjoy using and mixing.
 
 These require:
 
