@@ -1,0 +1,92 @@
+[
+    {
+        "name": "zz-Acid_Illustration",
+        "prompt": "({prompt}:1.2), lisa frank acid trip, by miyazaki crisp detailed vector illustration, highly detailed, 4k, masterpiece, colorful, (caricature:1.1)",
+        "negative_prompt": ""
+    },
+    {
+        "name": "zz-B&W Tattoo",
+        "prompt": "tattoo drawing of an ({prompt}:1.2), thick black lines, restrict colors to RGB, white background",
+        "negative_prompt": "vignette"
+    },
+    {
+        "name": "zz-Japanese line art",
+        "prompt": "a line art illustration, uniform thickness, flat colors, ink outlines, transparent (light wash:1.15), a (stylized:1.4) ({prompt}:1.2), water color wash, studio Ghibli, Gansai (顔彩)",
+        "negative_prompt": ""
+    },
+    {
+        "name": "zz-Mixed Media",
+        "prompt": "Create a mixed media collage that represents a journey through different landscapes, incorporating elements of nature, culture, and personal experiences. Use a variety of textures and materials, such as paper, fabric, paint, and found objects, to create a visually rich and dynamic composition of ({prompt}:1.2). Consider incorporating symbols or motifs that hold personal significance, such as animals, plants, or landmarks, to add depth and meaning to the piece. The final artwork should evoke a sense of wonder, curiosity, and adventure, inviting the viewer to embark on their own journey of exploration and discovery.",
+        "negative_prompt": ""
+    },
+    {
+        "name": "zz-Cine-Film",
+        "prompt": "cinematic film still analog film photo masterpiece, best quality, hyperrealistic, Hyperdetailed, analog style, ({prompt}:1.2), Cinematic wide shot. DOF. Film effect. faded film, desaturated, 35mm photo, grainy, vignette, vintage, Kodachrome, Lomography, stained, highly detailed, found footage . shallow depth of field, vignette, highly detailed, high budget, bokeh, cinemascope, moody, epic, gorgeous, film grain, grainy",
+        "negative_prompt": ""
+    },
+    {
+        "name": "zz-Zombie",
+        "prompt": "a (zombie:1.4) ({prompt}:1.2) (rotting black eyes), rotting jaw with teeth showing, one eye has cataract, visible skull, dead skin, skull showing through face, body in state of decay, undead, blood running down the face, rotting and peeling flesh, greyish/brown decaying skin, (discolored skin), dirty, warts, boils, warm lights, raining, empty street. Upper body portrait",
+        "negative_prompt": ""
+    },
+    {
+        "name": "zz-Horror",
+        "prompt": "cinematic film still cinematic film still analog film photo masterpiece, best quality, hyperrealistic, Hyperdetailed, analog style. ({prompt}:1.2). Movie still. 35 mm. Found footage. Old photo. Damaged photo. (Film grain:1.4). Scene from a horror movie. Scary. mist. Eerie. Glowing eyes. dirt. Dark. Splintered wood. Screaming. Dripping. Maggots. Ooze.:1.2), Cinematic wide shot. DOF. Film effect. faded film, desaturated, 35mm photo, grainy, vignette, vintage, Kodachrome, Lomography, stained, highly detailed, found footage . shallow depth of field, vignette, highly detailed, high budget, bokeh, cinemascope, moody, epic, gorgeous, film grain, grainy . shallow depth of field, vignette, highly detailed, high budget, bokeh, cinemascope, moody, epic, gorgeous, film grain, grainy",
+        "negative_prompt": ""
+    },
+    {
+        "name": "zz-GTA",
+        "prompt": "({prompt}:1.2) vice city, gta 5 cover art, borderlands style, celshading, symmetric highly detailed eyes, trending on artstation, by rhads, andreas rocha, rossdraws, makoto shinkai, laurie greasley, lois van baarle, ilya kuvshinov and greg rutkowski",
+        "negative_prompt": ""
+    },
+    {
+        "name": "zz-DOF Studio Photography",
+        "prompt": "({prompt}:1.2) DOF, Bokeh, low camera angle. Studio photography.",
+        "negative_prompt": ""
+    },
+    {
+        "name": "zz-Painted glass",
+        "prompt": "({prompt}:1.2) painted by artgerm, Alphonse Mucha, Akihiko Yoshida, sakimichan, krenz cushart, low angle shot, digital painting.",
+        "negative_prompt": ""
+    },
+    {
+        "name": "zz-Stalenhag-esque",
+        "prompt": "({prompt}:1.2) intricate, dramatic, highly detailed, digital painting, artstation,  smooth, DOF. Bokeh. by steven stalenhag. black vignette.",
+        "negative_prompt": ""
+    },
+    {
+        "name": "zz-Romance novel cover art",
+        "prompt": "({prompt}:1.2) intricate, highly detailed, smooth, art by artgerm and greg rutkowski and gil elvgren. very detailed hands. very detailed face",
+        "negative_prompt": ""
+    },
+    {
+        "name": "zz-Really old camera",
+        "prompt": "({prompt}:1.2) Tri-X 400 TX, Instax, Ilford HP5, Pinhole Photography, Ambrotype, Tintype, Monochrome, Damaged photograph. 19th century style. Camera obscura",
+        "negative_prompt": ""
+    },
+    {
+        "name": "zz-Princess Peach",
+        "prompt": "({prompt}:1.2) beautiful face, intricate, highly detailed, smooth, sharp focus, art by artgerm and greg rutkowski and alphonse mucha",
+        "negative_prompt": ""
+    },
+    {
+        "name": "zz-Hobbit House",
+        "prompt": "({prompt}:1.2) by Kim Jung Gi, unreal engine, octane render, digital art, thomas kindkade, Jessica Rossier",
+        "negative_prompt": ""
+    },
+    {
+        "name": "zz-Fooocus clone",
+        "prompt": "({prompt}:1.2), dynamic composition, elegant, intricate, highly detailed, sharp focus, beautiful light, cinematic, new classic, stunning, attractive, creative, color spread, cute, lovely, pretty, charming, enchanted, cool, enhanced, inspired, vibrant, illuminated, colorful, loving, positive, glowing, pristine, bright, relaxed, joyful, unique",
+        "negative_prompt": ""
+    },
+    {
+        "name": "zz-The Drolatic Dreams of Pantagruel",
+        "prompt": "The Drolatic Dreams of Pantagruel. ({prompt}:1.2)",
+        "negative_prompt": ""
+    },
+    {
+        "name": "zz-Fix bad anatomy",
+        "prompt": "({prompt}:1.2) bad anatomy, extra legs, extra arms, poorly drawn hands, poorly drawn feet, disfigured, out of frame, tiling, bad art, deformed, mutated, outside, outdoors, closed eyes",
+        "negative_prompt": ""
+    }
+]
