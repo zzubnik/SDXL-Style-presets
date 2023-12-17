@@ -51,3 +51,9 @@ Horror
 ![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_Horror_.png)
 
 
+Hieronymus Bosch
+![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/HieronymusBosch.png)
+
+
+Hobbit House
+![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_HobbitHouse.png)
