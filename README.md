@@ -57,3 +57,15 @@ Hieronymus Bosch
 
 Hobbit House
 ![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_HobbitHouse.png)
+
+
+Princess Peach
+![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_PrincessPeach_.png)
+
+
+Really Old Camera
+![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_ReallyOldCamera_.png)
+
+
+The Drolatic Dreams of Pantagruel.png
+![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_TheDrolaticDreamsofPantagruel.png)
