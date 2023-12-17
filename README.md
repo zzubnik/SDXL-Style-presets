@@ -31,5 +31,13 @@ B&W Tattoo
 ![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_B%26W_Tattoo_.png)
 
 
-Japanese LIne Art
+Japanese Line Art
 ![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_JapaneseLineArt_.png)
+
+
+Acid Illustration
+![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_Acid_Illustration_.png)
+
+
+
+
