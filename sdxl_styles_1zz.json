@@ -65,6 +65,11 @@
         "negative_prompt": ""
     },
     {
+        "name": "zz-Selfie",
+        "prompt": "Fish-eye lens flash photography selfie. ({prompt}:1.2)",
+        "negative_prompt": ""
+    },
+    {
         "name": "zz-The Drolatic Dreams of Pantagruel",
         "prompt": "The Drolatic Dreams of Pantagruel. ({prompt}:1.2)",
         "negative_prompt": ""
