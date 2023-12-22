@@ -63,6 +63,10 @@ Hobbit House - Colourful digital painting
 ![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/zz_HobbitHouse.png)
 
 
+Selfie - Just tell it who and where
+![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/selfies.jpg)
+
+
 Hieronymus Bosch - the master of weird old paintings
 ![StylePreview](https://github.com/zzubnik/SDXL-Style-presets/blob/main/Images/HieronymusBosch.png)
 
